@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@300;400;600;700;900&display=swap');
+
+* {
+  font-family: 'Martel Sans', sans-serif;
+}

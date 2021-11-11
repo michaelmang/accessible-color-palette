@@ -1,0 +1,42 @@
+{
+  "name": "accessible-color-palette",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Accessible Color Palette",
+  "author": "Mike Mangialardi",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "colord": "^2.9.1",
+    "culori": "^2.0.0",
+    "gatsby": "^4.1.3",
+    "gatsby-plugin-image": "^2.1.1",
+    "gatsby-plugin-manifest": "^4.1.2",
+    "gatsby-plugin-react-helmet": "^5.1.0",
+    "gatsby-plugin-sass": "^5.1.1",
+    "gatsby-plugin-sharp": "^4.1.2",
+    "gatsby-plugin-sitemap": "^5.1.1",
+    "gatsby-source-filesystem": "^4.1.1",
+    "gatsby-transformer-sharp": "^4.1.0",
+    "mathjs": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "sass": "^1.43.4",
+    "wcag-contrast": "^3.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "gatsby-plugin-postcss": "^5.1.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
